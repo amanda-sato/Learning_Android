@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">exercicio01</string>
+    <string name="celsius">celsius</string>
+    <string name="fahrenheit">fahrenheit</string>
+    <string name="convert">convert</string>
+    <string name="placeholder">placeholder</string>
+    <string name="evento">evento</string>
+</resources>
